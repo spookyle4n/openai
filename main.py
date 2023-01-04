@@ -1,7 +1,7 @@
 import openai
 
 # Set the API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Set the model to use
 model_engine = "text-davinci-002"
